@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/VMtest/static/css/main.2a8dd1a7.css",
+    "main.css": "/VMtest/static/css/main.5b4c144c.css",
     "main.js": "/VMtest/static/js/main.ad2b52ad.js",
     "static/js/787.c4e7f8f9.chunk.js": "/VMtest/static/js/787.c4e7f8f9.chunk.js",
     "static/media/support-hand.png": "/VMtest/static/media/support-hand.7da5146505e99c5ce1da.png",
@@ -45,12 +45,12 @@
     "static/media/close-menu.svg": "/VMtest/static/media/close-menu.b9d9aa109f65d8f3a22c334ee659beaf.svg",
     "static/media/cross.svg": "/VMtest/static/media/cross.55645bfdd0e5d9903be45697ac7d3957.svg",
     "static/media/ellipse.svg": "/VMtest/static/media/ellipse.e52b2ded349f1f0e968957d69d3aa16d.svg",
-    "main.2a8dd1a7.css.map": "/VMtest/static/css/main.2a8dd1a7.css.map",
+    "main.5b4c144c.css.map": "/VMtest/static/css/main.5b4c144c.css.map",
     "main.ad2b52ad.js.map": "/VMtest/static/js/main.ad2b52ad.js.map",
     "787.c4e7f8f9.chunk.js.map": "/VMtest/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a8dd1a7.css",
+    "static/css/main.5b4c144c.css",
     "static/js/main.ad2b52ad.js"
   ]
 }
