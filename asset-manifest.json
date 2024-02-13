@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VMtest/static/css/main.169f46af.css",
-    "main.js": "/VMtest/static/js/main.01d54bd8.js",
+    "main.js": "/VMtest/static/js/main.285aea54.js",
     "static/js/787.c4e7f8f9.chunk.js": "/VMtest/static/js/787.c4e7f8f9.chunk.js",
     "static/media/support-hand.png": "/VMtest/static/media/support-hand.7da5146505e99c5ce1da.png",
     "static/media/hero-bg.png": "/VMtest/static/media/hero-bg.16a7a3feb93fb8855d3a.png",
@@ -46,11 +46,11 @@
     "static/media/cross.svg": "/VMtest/static/media/cross.55645bfdd0e5d9903be45697ac7d3957.svg",
     "static/media/ellipse.svg": "/VMtest/static/media/ellipse.e52b2ded349f1f0e968957d69d3aa16d.svg",
     "main.169f46af.css.map": "/VMtest/static/css/main.169f46af.css.map",
-    "main.01d54bd8.js.map": "/VMtest/static/js/main.01d54bd8.js.map",
+    "main.285aea54.js.map": "/VMtest/static/js/main.285aea54.js.map",
     "787.c4e7f8f9.chunk.js.map": "/VMtest/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.169f46af.css",
-    "static/js/main.01d54bd8.js"
+    "static/js/main.285aea54.js"
   ]
 }
