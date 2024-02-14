@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VMtest/static/css/main.2a13e84e.css",
-    "main.js": "/VMtest/static/js/main.26e3924e.js",
+    "main.css": "/VMtest/static/css/main.511ecc2e.css",
+    "main.js": "/VMtest/static/js/main.54a6d126.js",
     "static/js/787.c4e7f8f9.chunk.js": "/VMtest/static/js/787.c4e7f8f9.chunk.js",
     "static/media/support-hand.png": "/VMtest/static/media/support-hand.7da5146505e99c5ce1da.png",
     "static/media/hero-bg.png": "/VMtest/static/media/hero-bg.16a7a3feb93fb8855d3a.png",
@@ -45,12 +45,12 @@
     "static/media/close-menu.svg": "/VMtest/static/media/close-menu.b9d9aa109f65d8f3a22c334ee659beaf.svg",
     "static/media/cross.svg": "/VMtest/static/media/cross.55645bfdd0e5d9903be45697ac7d3957.svg",
     "static/media/ellipse.svg": "/VMtest/static/media/ellipse.e52b2ded349f1f0e968957d69d3aa16d.svg",
-    "main.2a13e84e.css.map": "/VMtest/static/css/main.2a13e84e.css.map",
-    "main.26e3924e.js.map": "/VMtest/static/js/main.26e3924e.js.map",
+    "main.511ecc2e.css.map": "/VMtest/static/css/main.511ecc2e.css.map",
+    "main.54a6d126.js.map": "/VMtest/static/js/main.54a6d126.js.map",
     "787.c4e7f8f9.chunk.js.map": "/VMtest/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a13e84e.css",
-    "static/js/main.26e3924e.js"
+    "static/css/main.511ecc2e.css",
+    "static/js/main.54a6d126.js"
   ]
 }
