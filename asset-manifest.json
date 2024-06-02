@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VMtest/static/css/main.44f92fbc.css",
-    "main.js": "/VMtest/static/js/main.794037dd.js",
+    "main.css": "/VMtest/static/css/main.c31a737d.css",
+    "main.js": "/VMtest/static/js/main.4689814d.js",
     "static/css/205.ce1a6267.chunk.css": "/VMtest/static/css/205.ce1a6267.chunk.css",
     "static/js/205.950adb7b.chunk.js": "/VMtest/static/js/205.950adb7b.chunk.js",
     "static/js/285.30d15091.chunk.js": "/VMtest/static/js/285.30d15091.chunk.js",
@@ -66,8 +66,8 @@
     "static/media/close-menu.svg": "/VMtest/static/media/close-menu.b9d9aa109f65d8f3a22c334ee659beaf.svg",
     "static/media/cross.svg": "/VMtest/static/media/cross.55645bfdd0e5d9903be45697ac7d3957.svg",
     "static/media/ellipse.svg": "/VMtest/static/media/ellipse.e52b2ded349f1f0e968957d69d3aa16d.svg",
-    "main.44f92fbc.css.map": "/VMtest/static/css/main.44f92fbc.css.map",
-    "main.794037dd.js.map": "/VMtest/static/js/main.794037dd.js.map",
+    "main.c31a737d.css.map": "/VMtest/static/css/main.c31a737d.css.map",
+    "main.4689814d.js.map": "/VMtest/static/js/main.4689814d.js.map",
     "205.ce1a6267.chunk.css.map": "/VMtest/static/css/205.ce1a6267.chunk.css.map",
     "205.950adb7b.chunk.js.map": "/VMtest/static/js/205.950adb7b.chunk.js.map",
     "285.30d15091.chunk.js.map": "/VMtest/static/js/285.30d15091.chunk.js.map",
@@ -95,7 +95,7 @@
     "130.b4759c08.chunk.js.map": "/VMtest/static/js/130.b4759c08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44f92fbc.css",
-    "static/js/main.794037dd.js"
+    "static/css/main.c31a737d.css",
+    "static/js/main.4689814d.js"
   ]
 }
